@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "WHConnection",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "resource_key": "0000:0000:0000:0000:0000:FFFF:C0A8:0217|1521|WHTEST",
+    "asset_category": "USER",
+    "created_at": "2025-09-18T13:08:22Z",
+    "created": 1758200902007,
+    "asset_id": "connection.WHConnection",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "971223d3-093e-4957-8af9-a83181ee9dd9",
+      "data_source_definition_searchable": "192.168.2.23|1521|WHTEST",
+      "context": "source,target",
+      "properties": {},
+      "flags": [
+        "personal_credentials"
+      ],
+      "ref_catalog_id": "eccd2e59-7e2c-4d6d-a5b5-da6d71980f8e",
+      "ref_asset_id": "5c6b34ba-e77c-4328-8d0f-2ac45bcc037b"
+    }
+  },
+  "attachments": []
+}
