@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "name": "Default",
+    "description": "",
+    "origin_country": "US",
+    "tags": [
+      "dsx"
+    ],
+    "asset_type": "environment",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2025-09-18T13:14:18Z",
+    "created": 1758201258542,
+    "asset_id": "environment.Default",
+    "asset_attributes": [
+      "environment"
+    ]
+  },
+  "entity": {
+    "environment": {
+      "sub_type": "datastage",
+      "display_name": "Default",
+      "hardware_specification": {
+        "type": "referenced",
+        "guid": "e08e3adc-4442-43f6-b231-d196f0b32984"
+      },
+      "tools_specification": {
+        "runtime_root_folder": "/DataStage/",
+        "num_partitions": 2
+      },
+      "location": null
+    }
+  },
+  "attachments": []
+}
